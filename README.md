@@ -1,5 +1,5 @@
 # Daily-Journal 
-👋 Hi, I'm Stephy from New Zealand. I recently graduated in Computer and Information Science from Auckland University, and I'm embarking on a fantastic journey into the technology field. As there were no major projects in my studies, I took the initiative to develop a small project on my own - a Daily Journal Site using JS, Node.js, and Ejs - to improve my knowledge.
 
-During my university studies, I discovered a particular interest in Highly Secure Systems, especially with cryptography. I am enthusiastic about getting the opportunity to learn and develop further in this field. 
-
+As there were no major projects in my studies, I took the initiative to develop a small project on my own - a Daily Journal Site using language JS, Node.js, and Ejs - to improve my knowledge.
+The site features the ability to add contents to the home page with a database. It includes sections for the home page, about, and contact us. Additionally, I deployed the search page with options to search by title.
+Currently, I am working on the contact us page to establish a connection to SMTP (Simple Mail Transfer Protocol) to enable the retrieval and handling of details submitted through the contact form.
